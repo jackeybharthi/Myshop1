@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Myshop</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apple13pro">Apple 13 Pro txt</string>
+    <string-array name="apple">
+        <item><li>Apple 13 Pro \n</li>
+                <li>256GB</li>
+                <li>\n Release Date: September 2021 \n
+                    Screen Size: 6.7 inches \n
+                    Display Resolution: 2778 x 1284 \n
+                    Storage Capacity: 128 GB, 256 GB, 512 GB, 1 TB</li>
+                <li> \n ₹ 90000</li>
+        </item>
+        <item><li>Apple 12 \n</li>
+                <li>256GB</li>
+                <li>\n Release Date: September 2021 \n
+                    Screen Size: 6.7 inches \n
+                    Display Resolution: 2778 x 1284 \n
+                    Storage Capacity: 128 GB, 256 GB, 512 GB, 1 TB</li>
+                <li> \n ₹ 70000</li></item>
+    </string-array>
+    <string name="about">You will find Big Mobile Range, Knowledgeable Staff, Friendly Environment and Competitive Prices at our Mobile Store at Rajkot. We are giving special offers from all the key mobile phone brands available across the globe.
+All Mobile brands like Nokia, Samsung, Apple, Micromax, Intex, Mi, Vivo, Oppo, Realme, Tecno and, more available at Ramdev Mobiles. Visit Ramdev Mobiles in Rajkot and feel a holistic mobile shopping experience.</string>
+</resources>
